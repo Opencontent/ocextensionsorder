@@ -2,7 +2,7 @@
 
 class OCExtensionsOrder
 {
-    function OCExtensionsOrder()
+    function __construct()
     {
     }
 
